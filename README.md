@@ -1,4 +1,4 @@
-# ASUDE<!doctype html>
+
 <html lang="tr">
 <head>
   <meta charset="utf-8">
